@@ -2,4 +2,4 @@
 
 $config['username'] = "admin";
 
-$config['password'] = "";
+$config['password'] = "tiger";
